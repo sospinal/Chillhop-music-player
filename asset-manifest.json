@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chillhop-music-player/static/css/main.960820ba.chunk.css",
+    "main.js": "/Chillhop-music-player/static/js/main.229b0da5.chunk.js",
+    "main.js.map": "/Chillhop-music-player/static/js/main.229b0da5.chunk.js.map",
+    "runtime-main.js": "/Chillhop-music-player/static/js/runtime-main.bae87ea2.js",
+    "runtime-main.js.map": "/Chillhop-music-player/static/js/runtime-main.bae87ea2.js.map",
+    "static/js/2.2639c23b.chunk.js": "/Chillhop-music-player/static/js/2.2639c23b.chunk.js",
+    "static/js/2.2639c23b.chunk.js.map": "/Chillhop-music-player/static/js/2.2639c23b.chunk.js.map",
+    "static/js/3.653f2c8f.chunk.js": "/Chillhop-music-player/static/js/3.653f2c8f.chunk.js",
+    "static/js/3.653f2c8f.chunk.js.map": "/Chillhop-music-player/static/js/3.653f2c8f.chunk.js.map",
+    "index.html": "/Chillhop-music-player/index.html",
+    "static/css/main.960820ba.chunk.css.map": "/Chillhop-music-player/static/css/main.960820ba.chunk.css.map",
+    "static/js/2.2639c23b.chunk.js.LICENSE.txt": "/Chillhop-music-player/static/js/2.2639c23b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bae87ea2.js",
+    "static/js/2.2639c23b.chunk.js",
+    "static/css/main.960820ba.chunk.css",
+    "static/js/main.229b0da5.chunk.js"
+  ]
+}
